@@ -1,1 +1,1 @@
-My second readme file
+Today I learned git branching and it is so cool.
